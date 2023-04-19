@@ -4,9 +4,8 @@
 
 [Live coding examples](live-coding/)
 
-## Övningar
+## Övningar (samma som på discord från måndagen)
 
-```
 Denna övning utförs t.o.m onsdagstillfället
 
 Se igenom följande två videos och provade sedan följande övning. Observera att polling är ett koncept, inte ett verktyg (ej ett bibliotek att ladda ner).
@@ -20,4 +19,3 @@ Reflektera kring följande:
 - Är det någon lösning som inte är praktiskt i fallet av en chatapp, varför?
 - När är det mer lämpligt att använda en long polling istället för en socket? Finns det undantag? Vilka?
 - När är det mer lämpligt att använda short polling istället för en socket? Finns det undantag? Vilka?
-```
